@@ -38,4 +38,9 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts
+next-env.d
+
+.contribute(cb!)
+    cb!:/name()
+name(name):name
+.vaild(name) list(privateDev)
