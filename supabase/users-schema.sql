@@ -4,7 +4,7 @@ CREATE TABLE public.users (
   full_name TEXT NOT NULL,
   email TEXT NOT NULL,
   date_of_birth DATE NOT NULL,
-  username TEXT UNIQUE,
+  username TEXT UNIQUE, 
   avatar_url TEXT,
   bio TEXT,
   created_at TIMESTAMP WITH TIME ZONE DEFAULT NOW(),
